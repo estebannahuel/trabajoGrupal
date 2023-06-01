@@ -7,7 +7,7 @@ module.exports = {
     listar : require("./listar"), 
     //agregar : require("./agregar"), 
     //filtrar: require("./filtrar"),
-    //editar : require("./editar"), 
+    editar : require("./editar"), 
     //eliminar : require("./eliminar")
         
 
