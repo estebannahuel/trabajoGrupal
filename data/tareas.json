@@ -1,0 +1,23 @@
+[
+   {
+      "id": "182401ef-c264-45b4-81e5-eadc01a03762",
+      "clase": 1,
+      "titulo": "Bienvenida",
+      "estado": "pendiente",
+      "fecha": null
+   },
+   {
+      "id": "182401ef-c264-45b4-81e5-eadc01a03769",
+      "clase": 2,
+      "titulo": "introduccion a node js",
+      "estado": "pendiente",
+      "fecha": "2023-05-05T22:36:34.875Z"
+   },
+   {
+      "id": "7c7221b6-9e56-436d-94a8-d50a36cc6ad0",
+      "clase": 3,
+      "titulo": "mono",
+      "estado": "pendiente",
+      "fecha": "2023-05-19T16:52:54.153Z"
+   }
+]
