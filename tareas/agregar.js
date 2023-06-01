@@ -1,4 +1,4 @@
-const Tarea = require("./Tarea");
+const Tarea = require("./Tareas");
 const {escribirJSON} = require("../data")
 const agregar = function (clase, titulo) {
     const tareas = this.tareas;
