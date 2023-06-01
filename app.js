@@ -8,15 +8,9 @@ const moduloTareas = require('./tareas');
 
 switch (argv[2].toLocaleLowerCase()) {
     case "listar":
-    console.log(`************************
-lista de tareas 
- ****************`.red)
-        
-
-    moduloTareas.listar()
-
-        break;
-      case "agregar":
+      moduloTareas.listar()
+      break;
+    case "agregar":
          if ( [+argv[3],argv[4]].includes(undefined)){
 
           console.log("ERROR el numero de clase y titulo son obligarios");
