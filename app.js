@@ -55,11 +55,7 @@ switch (argv[2].toLocaleLowerCase()) {
             moduloTareas.editar(+argv[3],argv[4])
             
             break;
-            case "eliminar" :
-
-            respuesta = moduloTareas.eliminar(+argv[3]);
-                console.log(respuesta);
-                break;
+           
     default:
       console.log("ERROR no se que quieres hacer ");
         break;
